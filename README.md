@@ -20,4 +20,4 @@ The **College Bus Management System** helps manage college transportation by org
 4. Follow on-screen instructions  
 
 ## 👩‍💻 Author
-* Prasanna.Ch *
+* Prasanna.Ch 
